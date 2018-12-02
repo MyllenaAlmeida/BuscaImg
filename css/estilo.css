@@ -1,0 +1,24 @@
+body{
+	background-color: #FAFAFA;
+	color: #FAFAFA;
+}
+
+nav{
+	background-color: #4A4944;
+}
+.areaForm{
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+.button{
+	background-color: #7F267F;
+	color: #FAFAFA;
+
+}
+
+.button:hover{
+	background-color: #660066;
+	
+}
+
