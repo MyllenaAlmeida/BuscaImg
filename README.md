@@ -22,8 +22,10 @@ HTML & CSS
 
 	A página HTML foi criada, usando uma nav e padrões de formulário para a criação de busca do usuário
   (campo de preenchimento que é obrigatório e o botão). Após esse feito toda a página  foi estilizada em CSS, obtendo responsividade.
+  
 
 Javascript & Jquery
+
 	Foi criada uma função chamada searchImage que pega o elemento digitado no campo do formulário, faz um tratamento para limpar 
   esse campo. Depois, há uma estrutura condicional, para casos em que a entrada seja vazia, null, undefined, etc... isso permite
   que a busca por uma entrada desse tipo não seja efetuada e exiba uma mensagem pedindo ao usuário o preenchimento.
